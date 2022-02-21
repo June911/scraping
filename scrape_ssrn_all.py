@@ -32,7 +32,8 @@ You need to define the following values below:
                 Startup Plan (25 threads), Business Plan (50 threads), 
                 Enterprise Plan (up to 5,000 threads).
 """
-API_KEY = '1db367e66ef9babdb1e8f1ee29f4c98f'
+# need you to have your own API_KEY here 
+API_KEY = ''
 NUM_RETRIES = 3
 NUM_THREADS = 10
 
